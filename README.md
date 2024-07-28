@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/arian-afsharian-7a3903156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arian-afsharian-7a3903156" height="30" width="40" /></a>
 <a href="https://fb.com/arian.rust.52?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arian.rust.52?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/component__shop?igsh=enrla3lxa3dzyxho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="component__shop?igsh=enrla3lxa3dzyxho" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@learn_to_program_with_ari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@learn.py_with_ari420" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@learn_to_program_with_ari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@learn.py_with_ari420" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
